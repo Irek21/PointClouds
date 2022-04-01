@@ -1,6 +1,6 @@
 # PointClouds
 
-To run this notebooks download datasets from links
+To run these notebooks download datasets from links
 https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip
 https://shapenet.cs.stanford.edu/media/shapenet_part_seg_hdf5_data.zip
 
